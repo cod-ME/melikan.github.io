@@ -10,4 +10,4 @@ The content highlights the values that define the Open Source world:
 
 Whether you're a long-time Linux user, a newcomer exploring the ecosystem, or someone interested in the principles of free software, this webpage aims to provide a concise and thoughtful reflection on why open technologies matter.
 
-***Diclamier:**This webpage is a work-in progress.*
+ ***Diclamier:**This webpage is a work-in progress.*
